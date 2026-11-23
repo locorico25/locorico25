@@ -1,10 +1,10 @@
 ## Ciao, Enrico here 👋
 
-I am a **Lead Data Scientist**, located in Amsterdam, that happily went through several transformations during these years, now focusing on end-to-end designing, implementing and managing useful business applications that rely on AI. 🤖
+I'm a **Lead Data Scientist** in Amsterdam building practical AI systems—mostly multi-agent workflows, RAG, and evaluation pipelines that don't fall apart once real users show up. ✅
 
-From experimental data science to end-to-end software development, passing through **MLOps, CloudOps, DevOps, AI Engineering**, I have worked on many different problems in many different ways, and I love it! 🥳
+Six years in, I've worn a lot of hats from actuarial risk models to full-stack ML/AI delivery, and I still get a kick out of solving gnarly problems end to end. 🤠
 
-If you are curious and want to know more about my work, or simply have a nice chat, please reach out anytime 🙌 
+Want to talk shop or grab a coffee/beer in town? Reach out anytime 🙌
 
 ---
 
